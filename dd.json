@@ -1,0 +1,381 @@
+{
+    "Type": "SUCCESS",
+    "Message": "CourseData Had been Refreshed ",
+    "Data": [
+        {
+            "school": "Common",
+            "id": "-1",
+            "create_stamp": "2019-04-22 12:21:31",
+            "update_stamp": "2019-04-22 12:21:31",
+            "courses": [
+                {
+                    "course": "Common",
+                    "school_id": "-1",
+                    "id": "-1",
+                    "create_stamp": "2019-04-22 12:21:16",
+                    "update_stamp": "2019-04-22 12:21:16",
+                    "units": [
+                        {
+                            "unit": "Communication Skills",
+                            "code": "CM",
+                            "level_id": "1",
+                            "course_id": "-1",
+                            "foreign_key_name": "unit_id",
+                            "id": "27",
+                            "create_stamp": "2019-04-22 12:06:51",
+                            "update_stamp": "2019-04-22 12:06:51",
+                            "resources": [
+                                {
+                                    "unit_id": "27",
+                                    "title": "LinkedIn",
+                                    "description": "",
+                                    "link": "app\/assets\/resources\/ - 5cbec6eca5663",
+                                    "type": "3",
+                                    "name": null,
+                                    "size": null,
+                                    "mime": null,
+                                    "by": "System Admin",
+                                    "id": "15",
+                                    "create_stamp": "2019-04-23 11:03:56",
+                                    "update_stamp": "2019-04-23 11:03:56"
+                                },
+                                {
+                                    "unit_id": "27",
+                                    "title": "LinkedIn",
+                                    "description": "qw",
+                                    "link": "app\/assets\/resources\/ - 5cbec704434c9",
+                                    "type": "3",
+                                    "name": null,
+                                    "size": null,
+                                    "mime": null,
+                                    "by": "System Admin",
+                                    "id": "16",
+                                    "create_stamp": "2019-04-23 11:04:20",
+                                    "update_stamp": "2019-04-23 11:04:20"
+                                },
+                                {
+                                    "unit_id": "27",
+                                    "title": "qw",
+                                    "description": "",
+                                    "link": "app\/assets\/resources\/ - 5cbec81342716",
+                                    "type": "3",
+                                    "name": null,
+                                    "size": null,
+                                    "mime": null,
+                                    "by": "System Admin",
+                                    "id": "17",
+                                    "create_stamp": "2019-04-23 11:08:51",
+                                    "update_stamp": "2019-04-23 11:08:51"
+                                },
+                                {
+                                    "unit_id": "27",
+                                    "title": "Qwerty",
+                                    "description": "q",
+                                    "link": "http:\/\/localhost\/repo\/admin\/schools\/courses\/units\/materials\/?id=27",
+                                    "type": "3",
+                                    "name": "Link",
+                                    "size": null,
+                                    "mime": "link",
+                                    "by": "System Admin",
+                                    "id": "18",
+                                    "create_stamp": "2019-04-23 11:11:26",
+                                    "update_stamp": "2019-04-23 11:11:26"
+                                }
+                            ]
+                        },
+                        {
+                            "unit": "HIV \/ AIDS",
+                            "code": "CM 102",
+                            "level_id": "1",
+                            "course_id": "-1",
+                            "foreign_key_name": "unit_id",
+                            "id": "32",
+                            "create_stamp": "2019-04-22 15:26:42",
+                            "update_stamp": "2019-04-22 15:26:42",
+                            "resources": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "school": "Engineering",
+            "id": "2",
+            "create_stamp": "2019-04-20 00:43:14",
+            "update_stamp": "2019-04-20 00:43:14",
+            "courses": [
+                {
+                    "course": "BSC Computer Science",
+                    "school_id": "2",
+                    "id": "2",
+                    "create_stamp": "2019-04-20 00:45:06",
+                    "update_stamp": "2019-04-20 00:45:06",
+                    "units": [
+                        {
+                            "unit": "Introduction to programming",
+                            "code": "SCO 101",
+                            "level_id": "1",
+                            "course_id": "2",
+                            "foreign_key_name": "unit_id",
+                            "id": "6",
+                            "create_stamp": "2019-04-20 05:36:21",
+                            "update_stamp": "2019-04-20 05:36:21",
+                            "resources": [
+                                {
+                                    "unit_id": "6",
+                                    "title": "Dummy C",
+                                    "description": "dswf",
+                                    "link": "http:\/\/www.dummy.c.com",
+                                    "type": "3",
+                                    "name": "Link",
+                                    "size": null,
+                                    "mime": "link",
+                                    "by": "System Admin",
+                                    "id": "9",
+                                    "create_stamp": "2019-04-22 20:04:40",
+                                    "update_stamp": "2019-04-22 20:04:40"
+                                },
+                                {
+                                    "unit_id": "6",
+                                    "title": "C Programming",
+                                    "description": "Introduction to c programming",
+                                    "link": "app\/assets\/resources\/ - 5cbe043c8bf47",
+                                    "type": "1",
+                                    "name": "cprogramming_tutorial.pdf",
+                                    "size": "0",
+                                    "mime": "application\/pdf",
+                                    "by": "System Admin",
+                                    "id": "10",
+                                    "create_stamp": "2019-04-22 21:13:16",
+                                    "update_stamp": "2019-04-22 21:13:16"
+                                },
+                                {
+                                    "unit_id": "6",
+                                    "title": "The C Language",
+                                    "description": "Introduction to the c language",
+                                    "link": "app\/assets\/resources\/5cbe050c27037",
+                                    "type": "1",
+                                    "name": "The.C.Programming.Language.2nd.Edition.pdf",
+                                    "size": "21298031",
+                                    "mime": "application\/pdf",
+                                    "by": "System Admin",
+                                    "id": "11",
+                                    "create_stamp": "2019-04-22 21:16:44",
+                                    "update_stamp": "2019-04-22 21:16:44"
+                                },
+                                {
+                                    "unit_id": "6",
+                                    "title": "2019 Main Exam",
+                                    "description": "",
+                                    "link": "app\/assets\/resources\/5cbe056a53dfc",
+                                    "type": "2",
+                                    "name": "9.jpg",
+                                    "size": "430216",
+                                    "mime": "image\/jpeg",
+                                    "by": "System Admin",
+                                    "id": "12",
+                                    "create_stamp": "2019-04-22 21:18:18",
+                                    "update_stamp": "2019-04-22 21:19:54"
+                                },
+                                {
+                                    "unit_id": "6",
+                                    "title": "2018 Main Exam",
+                                    "description": "",
+                                    "link": "app\/assets\/resources\/5cbe05b18b638",
+                                    "type": "2",
+                                    "name": "9.jpg",
+                                    "size": "430216",
+                                    "mime": "image\/jpeg",
+                                    "by": "System Admin",
+                                    "id": "13",
+                                    "create_stamp": "2019-04-22 21:19:29",
+                                    "update_stamp": "2019-04-22 21:19:29"
+                                },
+                                {
+                                    "unit_id": "6",
+                                    "title": "Pointers in C",
+                                    "description": "The file shows code that demonstrates the use of pointers in C Language",
+                                    "link": "app\/assets\/resources\/5cbe061e18db7",
+                                    "type": "4",
+                                    "name": "pointer.c",
+                                    "size": "132",
+                                    "mime": "text\/plain",
+                                    "by": "System Admin",
+                                    "id": "14",
+                                    "create_stamp": "2019-04-22 21:21:18",
+                                    "update_stamp": "2019-04-22 21:21:18"
+                                }
+                            ]
+                        },
+                        {
+                            "unit": "Fundamentals of Computing",
+                            "code": "SCO 102",
+                            "level_id": "1",
+                            "course_id": "2",
+                            "foreign_key_name": "unit_id",
+                            "id": "7",
+                            "create_stamp": "2019-04-20 05:37:07",
+                            "update_stamp": "2019-04-20 05:37:07",
+                            "resources": [
+                                {
+                                    "unit_id": "7",
+                                    "title": "Intro to fundamental computing",
+                                    "description": "notes",
+                                    "link": "app\/assets\/resources\/5cd2c84b4193b",
+                                    "type": "1",
+                                    "name": "Kibet Edimon my final preport.docx",
+                                    "size": "471924",
+                                    "mime": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                    "by": "System Admin",
+                                    "id": "19",
+                                    "create_stamp": "2019-05-08 15:15:07",
+                                    "update_stamp": "2019-05-08 15:15:07"
+                                }
+                            ]
+                        },
+                        {
+                            "unit": "Digital Electronics",
+                            "code": "SCO 201",
+                            "level_id": "2",
+                            "course_id": "2",
+                            "foreign_key_name": "unit_id",
+                            "id": "25",
+                            "create_stamp": "2019-04-20 05:42:47",
+                            "update_stamp": "2019-04-20 05:42:47",
+                            "resources": []
+                        },
+                        {
+                            "unit": "Systems Analysis & Design",
+                            "code": "SCO102",
+                            "level_id": "2",
+                            "course_id": "2",
+                            "foreign_key_name": "unit_id",
+                            "id": "33",
+                            "create_stamp": "2019-05-07 00:09:19",
+                            "update_stamp": "2019-05-07 00:09:19",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "course": "BSC IT",
+                    "school_id": "2",
+                    "id": "5",
+                    "create_stamp": "2019-04-20 03:45:33",
+                    "update_stamp": "2019-04-20 03:45:33",
+                    "units": [
+                        {
+                            "unit": "Introduction to programming",
+                            "code": "SIT 101",
+                            "level_id": "1",
+                            "course_id": "5",
+                            "foreign_key_name": "unit_id",
+                            "id": "26",
+                            "create_stamp": "2019-04-20 05:51:52",
+                            "update_stamp": "2019-04-22 11:58:57",
+                            "resources": []
+                        }
+                    ]
+                },
+                {
+                    "course": "BSC Electrical & Electronics",
+                    "school_id": "2",
+                    "id": "6",
+                    "create_stamp": "2019-04-20 03:45:55",
+                    "update_stamp": "2019-04-20 03:45:55",
+                    "units": []
+                },
+                {
+                    "course": "BSC Mechanial Engineering",
+                    "school_id": "2",
+                    "id": "7",
+                    "create_stamp": "2019-04-20 03:53:00",
+                    "update_stamp": "2019-04-20 03:53:00",
+                    "units": []
+                }
+            ]
+        },
+        {
+            "school": "Bussiness",
+            "id": "3",
+            "create_stamp": "2019-04-20 02:57:58",
+            "update_stamp": "2019-04-20 02:57:58",
+            "courses": [
+                {
+                    "course": "BSC Economics",
+                    "school_id": "3",
+                    "id": "3",
+                    "create_stamp": "2019-04-20 02:58:15",
+                    "update_stamp": "2019-04-20 02:58:15",
+                    "units": []
+                }
+            ]
+        },
+        {
+            "school": "Hummanities",
+            "id": "5",
+            "create_stamp": "2019-04-20 02:59:06",
+            "update_stamp": "2019-04-20 02:59:06",
+            "courses": [
+                {
+                    "course": "BSC Community Resource Management",
+                    "school_id": "5",
+                    "id": "4",
+                    "create_stamp": "2019-04-20 02:59:34",
+                    "update_stamp": "2019-04-20 02:59:34",
+                    "units": []
+                }
+            ]
+        },
+        {
+            "school": "Pure & Applied Sciences",
+            "id": "6",
+            "create_stamp": "2019-04-20 08:30:25",
+            "update_stamp": "2019-04-20 08:30:25",
+            "courses": [
+                {
+                    "course": "BSC Maths & Computer Science",
+                    "school_id": "6",
+                    "id": "9",
+                    "create_stamp": "2019-04-20 08:39:14",
+                    "update_stamp": "2019-04-20 08:39:14",
+                    "units": [
+                        {
+                            "unit": "Introduction to probability",
+                            "code": "MCS 101",
+                            "level_id": "1",
+                            "course_id": "9",
+                            "foreign_key_name": "unit_id",
+                            "id": "28",
+                            "create_stamp": "2019-04-22 12:19:30",
+                            "update_stamp": "2019-04-22 12:19:30",
+                            "resources": []
+                        },
+                        {
+                            "unit": "Introduction to Mathematics",
+                            "code": "MCS 102",
+                            "level_id": "1",
+                            "course_id": "9",
+                            "foreign_key_name": "unit_id",
+                            "id": "30",
+                            "create_stamp": "2019-04-22 12:20:21",
+                            "update_stamp": "2019-04-22 12:20:21",
+                            "resources": []
+                        },
+                        {
+                            "unit": "Introduction to probability",
+                            "code": "MCS 103",
+                            "level_id": "1",
+                            "course_id": "9",
+                            "foreign_key_name": "unit_id",
+                            "id": "31",
+                            "create_stamp": "2019-04-22 12:20:31",
+                            "update_stamp": "2019-04-22 12:20:31",
+                            "resources": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
